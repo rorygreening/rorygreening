@@ -7,4 +7,4 @@ I am originally a history student by education, a former business analyst by tra
 
 I work primarily within Unreal Engine 5 and currently have several prototypes in the works that I cannot wait to share! 🎮
 
-My goal is to design games that provide innovative narrative experiences and combine well-developed worlds, memorable characters, and compelling stories in settings in both historical and fantastic! ❤
+My goal is to design games that provide innovative narrative experiences and combine well-developed worlds, memorable characters, and compelling stories in settings in both historical and fantastic! 📖
