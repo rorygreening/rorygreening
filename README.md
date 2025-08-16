@@ -1,5 +1,4 @@
-## About Me:
-Hello there, I'm Rory. 👋
+## Hello there, I'm Rory. 👋
 
 I am a Game Design Student currently studying at the University of Toronto through their Game Design Bootcamp program. 🏫
 
